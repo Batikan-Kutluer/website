@@ -1,0 +1,38 @@
+{
+  "slideImages": [
+    {
+      "url": "/1.jpg",
+      "caption": "Slide 1"
+    },
+    {
+      "url": "/2.jpg",
+      "caption": "Slide 2"
+    },
+    {
+      "url": "/3.jpg",
+      "caption": "Slide 3"
+    },
+
+    {
+      "url": "/4.jpg",
+      "caption": "Slide 4"
+    },
+
+    {
+      "url": "/5.jpg",
+      "caption": "Slide 5"
+    },
+    {
+      "url": "/6.jpg",
+      "caption": "Slide 6"
+    },
+    {
+      "url": "/7.jpg",
+      "caption": "Slide 7"
+    },
+    {
+      "url": "/8.jpg",
+      "caption": "Slide 8"
+    }
+  ]
+}
